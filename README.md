@@ -73,4 +73,3 @@ getters:{
 localStorage.setItem('变量名', JSON.stringify(要保存的数据));
 // 优先获取本地的数据，没有的时候赋予空数组
 const car = JSON.parse(localStorage.getItem('car' || []));
-数据保存到本地，是不能进行真机调试的
