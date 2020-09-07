@@ -6,7 +6,7 @@
 
 这是一个商城的移动端项目，两个UI框架结合使用，分别是 Mint-ui 和 mui
 
-手机调式："dev": "webpack-dev-server --host 192.168.199.177"
+查看运行效果地址：http://i7q.cn/6lZ5ac
 
 PhotoList组件中遇到的问题：
 1、在导入mui.js的时候报错：
